@@ -1,0 +1,38 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+    margin-top: 50px;
+    color: #637fd2;
+}
+body{
+    background-color: rgb(19, 18, 18);
+    color: #fff;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+#container{
+    text-align: center;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    width: 480px;
+    height: auto;
+}
+#mensagemSuperior{
+    padding: 10px;
+    font-size: 20px;
+}
+#hour{
+    color: #637fd2;
+}
+#imgStyle{
+    width: 350px;
+    height: auto;
+    padding: 20px;
+}
+
+
+
